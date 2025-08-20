@@ -15,7 +15,7 @@ Currently, I am working as a **Senior IT Specialist – Solution Delivery at Ban
 **Duration:** 2013 – 2017  
 
 **Final Year Project:**  
-*Augmented Ocular – An Augmented Reality Based Interactive Learning Tool*  
+**Augmented Ocular – An Augmented Reality Based Interactive Learning Tool**  
 - Built with **Unity3D** & **Vuforia SDK**  
 - Enhanced student learning using 3D AR models, animations, and contextual overlays  
 
@@ -49,6 +49,33 @@ Currently, I am working as a **Senior IT Specialist – Solution Delivery at Ban
 - **DevOps Tools:** Docker, Git, Jenkins, Kubernetes, Postman  
 - **Databases:** Oracle, SQL Server, AWS DynamoDB  
 - **Others:** Microservices, REST APIs, Agile, Jira, Power BI  
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 **SupTech Supervisory Platform**  
+*State Bank of Pakistan (IMF-Recommended Project)*  
+- Developed a regulatory technology platform for oversight of financial institutions.  
+- Integrated **data encryption, automation, and analytics** to improve supervision.  
+- Reduced manual oversight effort by **60%**.  
+
+### 🔹 **Augmented Ocular – AR Learning Tool**  
+*Final Year Project, SSUET*  
+- Built an **Augmented Reality learning app** with Unity3D & Vuforia SDK.  
+- Used QR codes to overlay 3D models and animations on textbooks.  
+- Focused on **usability and engagement** in education (EdTech).  
+
+### 🔹 **Digital Banking Middleware**  
+*Bank AL Habib Limited*  
+- Designed scalable middleware for handling **3M+ daily transactions**.  
+- Implemented **CI/CD pipelines**, Docker, and secure coding practices.  
+- Improved deployment efficiency by **30%** while ensuring compliance.  
+
+### 🔹 **Core Banking Enhancements**  
+*National Bank of Pakistan*  
+- Extended functionalities in the **FIS Profile Core Banking Platform**.  
+- Built new reporting modules, reducing processing time from days to hours.  
 
 ---
 
